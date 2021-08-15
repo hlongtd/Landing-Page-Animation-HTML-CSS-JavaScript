@@ -6,6 +6,4 @@ What makes a great landing page has always been a topic of discussion for many d
 
 ![](preview.jpg)
 
-# Watch Me Code Video
 
-[Youtube](https://youtu.be/laCL0zsPzlY)
